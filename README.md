@@ -24,9 +24,6 @@ In this mission you will create a SQL database using MySql, you will create SQL 
   * [Links](#links)
   * [Downloads](#downloads)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 ## Before starting
 ### Naming convention
 
