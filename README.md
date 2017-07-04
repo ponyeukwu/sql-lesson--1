@@ -1,6 +1,13 @@
 # SQL mission #1.
 In this mission you will create a SQL database using MySql, you will create SQL tables and column inside those tables.
 
+# Table of Contents
+1. [Before starting](#Before-starting)
+2. [First step: Create the database](#First-step:-Create-the-database)
+3. [Second step: Create tables &amp; table columns
+](#Second-step:-Create-tables-&amp;-table-columns
+)
+
 ## Before starting
 ### Naming convention
 
@@ -50,6 +57,9 @@ The column `salesman_social_security` should be a **FK** of `social_security` fi
 
 ### Products table
 The column `id` should be **PK**.
+
+## Solution
+Found in this repository at `northwind.sql` file.
 
 ## Materials
 ### Videos
