@@ -2,11 +2,30 @@
 In this mission you will create a SQL database using MySql, you will create SQL tables and column inside those tables.
 
 # Table of Contents
-1. [Before starting](#Before-starting)
-2. [First step: Create the database](#First-step:-Create-the-database)
-3. [Second step: Create tables &amp; table columns
-](#Second-step:-Create-tables-&amp;-table-columns
-)
+- [Before starting](#before-starting)
+  * [Naming convention](#naming-convention)
+  * [DataTypes](#datatypes)
+    + [VARCHAR](#varchar)
+    + [INT](#int)
+- [First step: Create the database](#first-step--create-the-database)
+- [Second step: Create tables &amp; table columns](#second-step--create-tables--amp--table-columns)
+  * [Customers table](#customers-table)
+  * [Salesmans table](#salesmans-table)
+  * [Purchases table](#purchases-table)
+  * [Products table](#products-table)
+- [Third step: Primary key &amp; Foreign Key (PK &amp; FK)](#third-step--primary-key--amp--foreign-key--pk--amp--fk-)
+  * [Customers table](#customers-table-1)
+  * [Salesmans table](#salesmans-table-1)
+  * [Purchases table](#purchases-table-1)
+  * [Products table](#products-table-1)
+- [Solution](#solution)
+- [Materials](#materials)
+  * [Videos](#videos)
+  * [Links](#links)
+  * [Downloads](#downloads)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Before starting
 ### Naming convention
