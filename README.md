@@ -7,6 +7,7 @@ In this mission you will create a SQL database using MySql, you will create SQL 
   * [DataTypes](#datatypes)
     + [VARCHAR](#varchar)
     + [INT](#int)
+    + [DATE](#date)
 - [First step: Create the database](#first-step--create-the-database)
 - [Second step: Create tables &amp; table columns](#second-step--create-tables--amp--table-columns)
   * [Customers table](#customers-table)
@@ -31,6 +32,8 @@ In this mission you will create a SQL database using MySql, you will create SQL 
 #### VARCHAR
 
 #### INT
+
+#### DATE
 
 ## First step: Create the database
 You can create the Database using Workbench IDE or phpMyAdmin designer tools. here is the sql statement if you choose to create your Database from a query.
